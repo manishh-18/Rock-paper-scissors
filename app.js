@@ -62,6 +62,8 @@ const winner = (userChoice)=>{
 reset.addEventListener("click",()=>{
     userScorePara.innerText="0";
     compScorePara.innerText="0";
+    userScore = 0;
+    compScore = 0;
     winMsg.innerText="Pick your choice";
     winMsg.style.backgroundColor = "#6B2B06"
 })
