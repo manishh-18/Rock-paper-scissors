@@ -68,4 +68,3 @@ Contributions, issues and feature requests are welcome!
 ## 🙋‍♂️ Author
 
 Made with ❤️ by Manish
-🔗 GitHub @manishh-18
