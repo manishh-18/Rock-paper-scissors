@@ -20,7 +20,7 @@ A simple, interactive **Rock Paper Scissors** game built using **HTML, CSS, and 
 
 ## 🚀 Live Demo
 
-👉 [Click here to play it now](https://manishh-18.github.io/Rock-Paper-Scissors/)
+👉 [Click here to play it now](https://manishh-18.github.io/Rock-paper-scissors/)
 
 ---
 
